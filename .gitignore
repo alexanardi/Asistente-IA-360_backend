@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.egg-info/
+.env
+.venv/
+venv/
+env/
+build/
+dist/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env files
+.env.*
+.env
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# Pytest
+.cache/
+
+# IDEs
+.idea/
+
+# SQLite (if local)
+*.sqlite3
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
