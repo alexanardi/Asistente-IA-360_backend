@@ -38,8 +38,8 @@ else:
 
 
 origins = [
-    "http://localhost:5173",  # en desarrollo
-    "http://miapp.com",  # en producción
+    "http://localhost:3000",  # en desarrollo
+    "https://asistente-ia-360-backend.up.railway.app",  # en producción
 ]
 
 app.add_middleware(
